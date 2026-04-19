@@ -5,7 +5,7 @@ img = None
 def setup():
     global img
     py5.size(800, 400)
-    img = py5.load_image(r"C:\Temp\VALE\ISFT 24 CIENCIA DE DATOS E IA\1C 2026\BARRETO\ifts24-lab-pdi-2026\002 - py5\img/gatito.jpg") # Usá una imagen disponible en tu carpeta img/
+    img = py5.load_image(r"C:\Temp\VALE\ISFT 24 CIENCIA DE DATOS E IA\1C 2026\BARRETO\cornes-valeria-pdi-1c-2026\002\003 - LAB\img\gatito.jpg") # Usá una imagen disponible en tu carpeta img/
     img.resize(400, 400)
 
 def draw():

@@ -61,7 +61,7 @@ El objetivo fue explorar cómo las decisiones técnicas y compositivas modifican
 
 # Estructura del repositorio
 
-
+```text
 006_fotografia_digital/
 │
 ├── README.md

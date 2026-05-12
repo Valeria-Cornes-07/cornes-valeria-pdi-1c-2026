@@ -78,7 +78,7 @@ El objetivo fue explorar cómo las decisiones técnicas y compositivas modifican
 │   └── otros_scripts.py
 │
 └── recursos/
-```text
+```
 
 # Procesamientos realizados
 
